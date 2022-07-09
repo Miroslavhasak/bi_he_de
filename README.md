@@ -1,2 +1,2 @@
 # bi_he_de
-Binary, decimal, hexadecimal and ASCII calculator
+Binary, hexadecimal, decimal and ASCII calculator
